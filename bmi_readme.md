@@ -2,5 +2,5 @@ This is a simple Python script that calculates the Body Mass Index (BMI) based o
 
 BMI(Body mass index)is calculated with the weight and height of the user to estimate if you are underweight , healthy weight ,overweight or obese.
 
-FORMULA:
+USED FORMULA:
 BMI = weight(kg)/(height(m))^2

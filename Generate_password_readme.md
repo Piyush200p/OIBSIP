@@ -1,6 +1,6 @@
-Here i have create a sinple and interactive Possword Generator by using python tkinter library. 
+Here i have create a sinmple and interactive Password Generator by using python tkinter library. 
 
-It allows users to generate strong and rangom password where you can customize character types and length and with the help of tkinter library a clean graphic user interface is created (GUI).
+It allows users to generate strong and random password where you can customize character types and length and with the help of tkinter library a clean graphic user interface is created (GUI).
 
 KEY FEATURES 
 
